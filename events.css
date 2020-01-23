@@ -1,0 +1,17 @@
+.mainBox {
+    display: flex;
+    justify-content: space-between;
+    margin: 20%;
+}
+
+#output-box {
+    border: 1px solid red;
+    height: 20px;
+    width: 175px;
+}
+
+#input-box {
+    border: 1px solid black;
+    height: 20px;
+    width: 175px;
+}
