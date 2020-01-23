@@ -1,17 +1,19 @@
 .mainBox {
     display: flex;
     justify-content: space-between;
-    margin: 20%;
+    margin: 15%;
 }
 
 #output-box {
     border: 1px solid red;
-    height: 20px;
-    width: 175px;
+    height: 30px;
+    width: 50%;
+    padding: 0;
 }
 
 #input-box {
     border: 1px solid black;
-    height: 20px;
-    width: 175px;
+    height: 30px;
+    width: 47%;
+    padding: 0;
 }
